@@ -12,3 +12,9 @@
 ## 投靶航线写入（`看代码`）运用了`相对坐标`
 ### 1.单个点逐个写入，再上传整条航线（需要相对坐标转GPS坐标）（有PPT的原理图）
 ### 2.根据当前模式来判断是否切入了投靶航线以及是否结束
+
+
+# 学习
+https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html
+https://ardupilot.org/dev/docs/ros.html
+https://ardupilot.org/dev/docs/where-to-get-the-code.html
